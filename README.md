@@ -122,10 +122,6 @@ Este projeto destina-se principalmente aplicar a Orientação em Objetos em Java
 
 Contribuições são bem-vindas! Se você encontrou um problema ou gostaria de melhorar este projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas alterações.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
 Espero que isso seja útil! Se precisar de mais alguma coisa, estou à disposição para ajudar!
 
 
