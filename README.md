@@ -122,7 +122,6 @@ Este projeto destina-se principalmente aplicar a Orientação em Objetos em Java
 
 Contribuições são bem-vindas! Se você encontrou um problema ou gostaria de melhorar este projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas alterações.
 
-Espero que isso seja útil! Se precisar de mais alguma coisa, estou à disposição para ajudar!
 
 
 
