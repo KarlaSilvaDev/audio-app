@@ -11,7 +11,6 @@ Esta aplicação Java foi desenvolvida para fins didáticos e tem como objetivo 
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Introdução
 
