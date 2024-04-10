@@ -6,7 +6,7 @@ Esta aplicação Java foi desenvolvida para fins didáticos e tem como objetivo 
 
 - [Introdução](#introdução)
 - [Os 4 pilares da Programação Orientada a Objetos](#os-4-pilares-da-programação-orientada-a-objetos)
-- [Outros Conceitos Importantes](#outros-conceitos-importante)
+- [Outros Conceitos Importantes](#outros-conceitos-importantes)
 - [Recursos](#recursos)
 - [Instalação](#instalação)
 - [Uso](#uso)
@@ -63,6 +63,7 @@ A principal vantagem da abstração é sua **capacidade de simplificar a complex
 
 
 ## Outros Conceitos Importantes
+
 <details>
   <summary>Classes e Objetos</summary>
 
